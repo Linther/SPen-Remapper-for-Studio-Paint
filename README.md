@@ -8,5 +8,5 @@ Depends on: https://github.com/jleb/AHKHID
 
 Your global constants should be:
 
-BUTTON_PRESSED := 8
+BUTTON_PRESSED := 8  
 BUTTON_RELEASED := 0
